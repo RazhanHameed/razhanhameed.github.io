@@ -1,7 +1,7 @@
 theme = "anemone"
 
 # The URL the site will be built for
-base_url = "https://razhanhameed.github.io/"
+base_url = "https://razhan.ai"
 title = "Razhan Hameed"
 description = "Personal website of Razhan Hameed."
 compile_sass = false
