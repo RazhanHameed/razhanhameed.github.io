@@ -1,20 +1,23 @@
 +++
 +++
 
-# Razhan Hameed
-
-📨 [razhan@protonmail.com](mailto:razhan@protonmail.com)
-<br><br>
-
-I am a machine learning engineer , I am currently learning about [Mechanistic Interpretability](https://www.neelnanda.io/mechanistic-interpretability/getting-started), an emerging field focused on understanding the internal mechanisms of neural networks. Following my MSc in Artificial Intelligence from Queen Mary University of London (completed with Distinction as a Chevening Scholar), I am now seeking PhD opportunities to contribute to this fascinating area of research
-<br> 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <h1>Razhan Hameed</h1>
+    <img src="/favicon.ico" alt="favicon" style="height: 32px; width: 32px;">
+</div>
 
 
-In my free time, I focus on applying state-of-the-art techniques to low-resource languages. I have built [Automatic Speech Recognition](https://huggingface.co/spaces/razhan/whisper-ckb-demo), [LLMs](https://github.com/RazhanHameed/kurdish-llama), [Spell Checkers](https://github.com/RazhanHameed/kurd-spell), [OCR](https://github.com/RazhanHameed/kurdish-ocr) and [Text-to-Speech](https://huggingface.co/razhan/mms-tts-ckb) models for Central Kurdish. I have also collected and curated the data for each of these models as Central Kurdish is a low-resource language. Recently, I have been working on [DOLMA](https://dolma-nlp.github.io), a project to build multimodal translation systems for various underrepresented languages.<br>
+I am a Machine Learning engineer, I am currently learning about [Mechanistic Interpretability](https://www.neelnanda.io/mechanistic-interpretability/getting-started), an emerging field focused on understanding the internal mechanisms of neural networks. Following my MSc in Artificial Intelligence from Queen Mary University of London (completed with Distinction as a Chevening Scholar), *I am now seeking **PhD opportunities** to contribute to this fascinating area of research.*
+<br>
+
+
+In my free time, I focus on applying state-of-the-art techniques to low-resource languages. I have built [Automatic Speech Recognition](https://huggingface.co/spaces/razhan/whisper-ckb-demo), [LLMs](https://github.com/RazhanHameed/kurdish-llama), [Spell Checkers](https://github.com/RazhanHameed/kurd-spell), [OCR](https://github.com/RazhanHameed/kurdish-ocr) and [Text-to-Speech](https://huggingface.co/razhan/mms-tts-ckb) models for Central Kurdish. I have also collected and curated the data for each of these models as Central Kurdish is a low-resource language. Recently, I have been working on [DOLMA](https://dolma-nlp.github.io), a project to build multimodal translation systems for various underrepresented languages in the Middle East.<br>
 
 In a previous life, I was a Tech Advisor at [51 Labs](https://fiveonelabs.org/) a start-up incubator that helps talented entrepreneurs in conflict-affected areas launch and grow their businesses in the Middle East.<br />
 
-> *If you want to connect or chat about AI, languages, or life in Amsterdam, feel free to reach out!*
+> *If you want to connect or chat about AI, languages, or life in Amsterdam, feel free to reach out!* 📨 [razhan@protonmail.com](mailto:razhan@protonmail.com)
+<br>
+
 
 <br>
 
