@@ -7,7 +7,7 @@
 </div>
 
 
-I am a Machine Learning engineer, I am currently learning about [Mechanistic Interpretability](https://www.neelnanda.io/mechanistic-interpretability/getting-started), an emerging field focused on understanding the internal mechanisms of neural networks. Following my MSc in Artificial Intelligence from Queen Mary University of London (completed with Distinction as a Chevening Scholar), *I am now seeking **PhD opportunities** to contribute to this fascinating area of research.*
+MLOps engineer and am currently learning about [Mechanistic Interpretability](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite), an emerging field focused on understanding the internal mechanisms of neural networks. After completing my MSc in Artificial Intelligence from Queen Mary University of London (with Distinction as a Chevening Scholar), I started working as an MLOps Engineer designing and implementing end-to-end data pipelines and ML systems at scale.
 <br>
 
 
