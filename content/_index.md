@@ -7,7 +7,7 @@
 </div>
 
 
-MLOps engineer, currently learning about [Mechanistic Interpretability](https://github.com/RazhanHameed/MI_playground), an emerging field focused on understanding the internal mechanisms of neural networks. After completing my MSc in Artificial Intelligence from Queen Mary University of London (with Distinction as a Chevening Scholar), I started working as an MLOps Engineer designing and implementing end-to-end data pipelines and ML systems at scale.
+Hi, I am Razhan<sub>(ɾɑʒɑn)</sub>, an MLOps engineer, currently learning about [Mechanistic Interpretability](https://github.com/RazhanHameed/MI_playground), an emerging field focused on understanding the internal mechanisms of neural networks. After completing my MSc in Artificial Intelligence from Queen Mary University of London (with Distinction as a Chevening Scholar), I started working as an MLOps Engineer designing and implementing end-to-end data pipelines and ML systems at scale.
 <br>
 
 
