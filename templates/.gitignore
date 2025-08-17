@@ -2,3 +2,6 @@
 *
 # Except this file
 !.gitignore
+# Allow shortcodes directory
+!shortcodes/
+!shortcodes/**

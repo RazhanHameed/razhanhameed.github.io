@@ -23,16 +23,16 @@ In a previous life, I was a Tech Advisor at [51 Labs](https://fiveonelabs.org/) 
 
 ## Papers
 - **[Automatic Speech Recognition for Low-Resourced Middle Eastern Languages](https://sinaahmadi.github.io/docs/articles/hameed2025ASR-ME.pdf)** \
-  <span style="font-size:0.75em;">Razhan Hameed, Sina Ahmadi, Hanah Hadi, Rico Sennrich</span> \
-  *Proceedings of Interspeech 2025* \
-  [[💻 code](https://github.com/DOLMA-NLP/asr)] [[🤗 dataset](https://huggingface.co/datasets/razhan/DOLMA-speech)] [[🤗 models](https://huggingface.co/collections/razhan/dolma-asr-models-686d7c2f95e8b3d776ec2d31)]
+  <span style="font-size:0.75em;"><strong>Razhan Hameed</strong>, Sina Ahmadi, Hanah Hadi, Rico Sennrich</span> \
+  <span style="font-size:0.75em; font-style:italic;">Proceedings of Interspeech 2025</span> \
+  [[{{ code() }} code](https://github.com/DOLMA-NLP/asr)] [[🤗 dataset](https://huggingface.co/datasets/razhan/DOLMA-speech)] [[🤗 models](https://huggingface.co/collections/razhan/dolma-asr-models-686d7c2f95e8b3d776ec2d31)]
 - **[Literary Translations and Synthetic Data for Machine Translation of Low-resourced Middle Eastern Languages](https://aclanthology.org/2025.iwslt-1.10.pdf)** \
-  <span style="font-size:0.75em;">Sina Ahmadi, Razhan Hameed, Rico Sennrich</span> \
-  *Proceedings of the 22nd International Conference on Spoken Language Translation (IWSLT 2025)*, pages 110-118 \
-  [[💻 code](https://github.com/DOLMA-NLP/bitext-mining)]
+  <span style="font-size:0.75em;">Sina Ahmadi, <strong>Razhan Hameed</strong>, Rico Sennrich</span> \
+  <span style="font-size:0.75em; font-style:italic;">Proceedings of the 22nd International Conference on Spoken Language Translation (IWSLT 2025), pages 110-118</span> \
+  [[{{ code() }} code](https://github.com/DOLMA-NLP/bitext-mining)]
 - **[Transfer Learning for Low-Resource Sentiment Analysis](https://arxiv.org/abs/2304.04703)** \
-  <span style="font-size:0.75em;">Razhan Hameed, Sina Ahmadi, Fatemeh Daneshfar</span> \
-  [[💻 code](https://github.com/RazhanHameed)] [[🤗 dataset](https://huggingface.co/datasets/razhan/sentiment)]
+  <span style="font-size:0.75em;"><strong>Razhan Hameed</strong>, Sina Ahmadi, Fatemeh Daneshfar</span> \
+  [[{{ code() }} code](https://github.com/RazhanHameed)] [[🤗 dataset](https://huggingface.co/datasets/razhan/sentiment)]
 <br>
 
 <!-- ## projects -->
