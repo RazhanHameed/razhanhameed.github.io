@@ -22,7 +22,7 @@ In a previous life, I was a Tech Advisor at [51 Labs](https://fiveonelabs.org/) 
 <br>
 
 ## Papers
-- **[Automatic Speech Recognition for Low-Resourced Middle Eastern Languages](https://sinaahmadi.github.io/docs/articles/hameed2025ASR-ME.pdf)** \
+- **[Automatic Speech Recognition for Low-Resourced Middle Eastern Languages](https://www.isca-archive.org/interspeech_2025/hameed25_interspeech.pdf)** \
   <span style="font-size:0.75em;"><strong>Razhan Hameed</strong>, Sina Ahmadi, Hanah Hadi, Rico Sennrich</span> \
   <span style="font-size:0.75em; font-style:italic;">Proceedings of Interspeech 2025</span> \
   [[{{ code() }} code](https://github.com/DOLMA-NLP/asr)] [[🤗 dataset](https://huggingface.co/datasets/razhan/DOLMA-speech)] [[🤗 models](https://huggingface.co/collections/razhan/dolma-asr-models-686d7c2f95e8b3d776ec2d31)]
