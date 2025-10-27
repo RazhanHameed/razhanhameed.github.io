@@ -7,7 +7,7 @@
 </div>
 
 
-Hi, I am Razhan<sub>(ɾɑʒɑn)</sub>, an AN engineer, currently learning working at a start up, on the side learning about [Mechanistic Interpretability](https://github.com/RazhanHameed/MI_playground), an emerging field focused on understanding the internal mechanisms of neural networks. After completing my MSc in Artificial Intelligence from Queen Mary University of London (as a Chevening Scholar), I started working as an MLOps Engineer designing and implementing end-to-end data pipelines and ML systems at scale.
+Hi, I am Razhan<sub>(ɾɑʒɑn)</sub>, an AI engineer, currently learning working at a start up building voice agents, on the side learning about [Mechanistic Interpretability](https://github.com/RazhanHameed/MI_playground), an emerging field focused on understanding the internal mechanisms of neural networks. After completing my MSc in Artificial Intelligence from Queen Mary University of London (as a Chevening Scholar), I started working as an MLOps Engineer designing and implementing end-to-end data pipelines and ML systems at scale.
 <br>
 
 
