@@ -7,7 +7,7 @@
 </div>
 
 
-Hi, I am Razhan<sub>(ɾɑʒɑn)</sub>, an AI engineer, currently learning working at a start up building voice agents, on the side learning about [Mechanistic Interpretability](https://github.com/RazhanHameed/MI_playground), an emerging field focused on understanding the internal mechanisms of neural networks. After completing my MSc in Artificial Intelligence from Queen Mary University of London (as a Chevening Scholar), I started working as an MLOps Engineer designing and implementing end-to-end data pipelines and ML systems at scale.
+Hi, I am Razhan<sub>(ɾɑʒɑn)</sub>, an AI engineer at Vox AI, building production voice agents for drive-thru automation. My work focuses on training custom Speech-to-Text models for noisy, real-world audio, building large-scale labeling pipelines to scale training data, developing real-time streaming architectures that achieve sub-200ms latency, and designing the full observability and infrastructure for scaling. On the side, I'm learning about [Mechanistic Interpretability](https://github.com/RazhanHameed/MI_playground), an emerging field focused on understanding the internal mechanisms of neural networks. After completing my MSc in Artificial Intelligence from Queen Mary University of London (as a Chevening Scholar), I started working as an MLOps Engineer designing and implementing end-to-end data pipelines and ML systems at scale.
 <br>
 
 
